@@ -1,4 +1,4 @@
-# EGUI_pro1
+# EGUI
 First of three projects created for **GUI** classes at Warsaw University of Technology.
 
 ### Short description
