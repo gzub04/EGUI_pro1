@@ -4,9 +4,7 @@ First of three projects created for **GUI** classes at Warsaw University of Tech
 ### Short description
 Basic blog application created in Qt. Task wasn't fully completed, with edit and remove functions missing.
 
-### Full Task
-
-## Task1: Blog application (TRS) in Qt
+## Full Task: Blog application (TRS) in Qt
 - Please write a simple Blog Application using Qt (under linux)
 - Data should be stored in text files (in *.json format) in selected folder
 ## Application should store:
