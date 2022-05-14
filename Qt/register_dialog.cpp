@@ -45,6 +45,7 @@ void register_dialog::on_pushButton_register_clicked()
     if(password != ui->lineEdit_confPassword->text())   // check if password == confirm password
     {
         ui->label_wrong_data->setText("The passwords provided are not the same!");
+        return;
     }
 
     // create directory for accounts if doesn't exist
